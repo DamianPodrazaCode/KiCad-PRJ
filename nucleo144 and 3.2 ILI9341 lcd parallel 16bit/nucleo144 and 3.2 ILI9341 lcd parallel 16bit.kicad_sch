@@ -1827,7 +1827,7 @@
     (pin "8" (uuid 6c66c36a-4f54-495c-a248-527aea131b78))
     (pin "9" (uuid b09a782d-f6c5-45e9-9ddb-c7c90120bfda))
     (instances
-      (project "nucleo144 and 3.2 lcd parallel module"
+      (project "nucleo144 and 3.2 ILI9341 lcd parallel 16bit"
         (path "/10dae7bb-012f-441c-8a75-11bd82ef8be9"
           (reference "TFT1") (unit 1)
         )
@@ -1995,7 +1995,7 @@
     (pin "98" (uuid d2e29c0e-8343-4a6b-9b47-00bd660bdee3))
     (pin "99" (uuid 0c924a18-b61d-4006-a725-e120641feb7a))
     (instances
-      (project "nucleo144 and 3.2 lcd parallel module"
+      (project "nucleo144 and 3.2 ILI9341 lcd parallel 16bit"
         (path "/10dae7bb-012f-441c-8a75-11bd82ef8be9"
           (reference "U1") (unit 1)
         )
