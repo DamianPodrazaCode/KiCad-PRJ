@@ -227,7 +227,6 @@
   (net 135 "unconnected-(TFT1-NC-Pad17)")
   (net 136 "unconnected-(TFT1-NC-Pad36)")
   (net 137 "3.3V")
-  (net 138 "SD__MISO")
 
   (footprint "zombie_nucleo:ST_Morpho_Connector_144_Short" (layer "F.Cu")
     (tstamp 0e7e79c0-1db6-4447-bc72-eb61becfc6b9)
@@ -251,7 +250,7 @@
     (pad "1" thru_hole circle (at 0 0 270) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 133 "SD_CLK") (pinfunction "PC10") (pintype "bidirectional") (tstamp 4be86730-77bc-4b51-b069-7a39356a52d8))
     (pad "2" thru_hole circle (at 2.54 0 270) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
-      (net 138 "SD__MISO") (pinfunction "PC11") (pintype "bidirectional") (tstamp 9aebc2b4-c3f3-4f12-a6cc-eb2d245655fa))
+      (net 134 "SD_MISO") (pinfunction "PC11") (pintype "bidirectional") (tstamp 9aebc2b4-c3f3-4f12-a6cc-eb2d245655fa))
     (pad "3" thru_hole circle (at 0 2.54 270) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 132 "SD_MOSI") (pinfunction "PC12") (pintype "bidirectional") (tstamp 1af533a9-bd97-43e1-afab-7535a276aaa8))
     (pad "4" thru_hole circle (at 2.54 2.54 270) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
