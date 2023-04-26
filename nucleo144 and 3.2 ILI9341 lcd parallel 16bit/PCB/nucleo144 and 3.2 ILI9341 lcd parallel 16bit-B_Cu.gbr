@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.1*
-G04 #@! TF.CreationDate,2023-04-21T07:09:15+02:00*
+G04 #@! TF.CreationDate,2023-04-26T09:02:55+02:00*
 G04 #@! TF.ProjectId,nucleo144 and 3.2 ILI9341 lcd parallel 16bit,6e75636c-656f-4313-9434-20616e642033,rev?*
 G04 #@! TF.SameCoordinates,PX68e7780PY7bfa480*
 G04 #@! TF.FileFunction,Copper,L2,Bot*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.1) date 2023-04-21 07:09:15*
+G04 Created by KiCad (PCBNEW 7.0.1) date 2023-04-26 09:02:55*
 %MOMM*%
 %LPD*%
 G01*
