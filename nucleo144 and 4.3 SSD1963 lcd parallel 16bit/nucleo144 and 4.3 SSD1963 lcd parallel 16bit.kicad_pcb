@@ -791,9 +791,9 @@
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp 16fd0748-2c94-4de4-be8e-87183ee1c751))
     (fp_line (start 1.75 1.4) (end -1.05 1.4)
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp 7a2c4caa-9622-485f-bb46-8f193a81a7bd))
-    (pad "1" smd roundrect (at -1.5375 0 90) (size 1.325 2.35) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.188679)
+    (pad "1" smd roundrect (at -1.5375 0 90) (size 1.325 2.35) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1886792453)
       (net 137 "3.3V") (pintype "passive") (tstamp 670c4c3b-a741-466f-9a68-bbec6881d130))
-    (pad "2" smd roundrect (at 1.5375 0 90) (size 1.325 2.35) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.188679)
+    (pad "2" smd roundrect (at 1.5375 0 90) (size 1.325 2.35) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1886792453)
       (net 105 "GND") (pintype "passive") (tstamp 30b73790-130e-41d4-943f-42f067ba0c70))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-3528-12_Kemet-T.wrl"
       (offset (xyz 0 0 0))
@@ -849,9 +849,9 @@
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp f9e802f5-5377-4429-bf77-3f1a7e7a01eb))
     (fp_line (start 1.75 1.4) (end -1.05 1.4)
       (stroke (width 0.1) (type solid)) (layer "B.Fab") (tstamp aace09fb-8246-4bcf-bc9e-906cd2b0be21))
-    (pad "1" smd roundrect (at -1.5375 0 180) (size 1.325 2.35) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.188679)
+    (pad "1" smd roundrect (at -1.5375 0 180) (size 1.325 2.35) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1886792453)
       (net 17 "5V") (pintype "passive") (tstamp 0a726290-d904-47e0-ac7f-e5bac02d78a0))
-    (pad "2" smd roundrect (at 1.5375 0 180) (size 1.325 2.35) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.188679)
+    (pad "2" smd roundrect (at 1.5375 0 180) (size 1.325 2.35) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1886792453)
       (net 105 "GND") (pintype "passive") (tstamp 8e9fc17a-4dea-40bc-a553-a89a29938487))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-3528-12_Kemet-T.wrl"
       (offset (xyz 0 0 0))
